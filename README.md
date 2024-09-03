@@ -30,4 +30,4 @@ This project focuses on analyzing healthcare data from the MIMIC-III dataset usi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/YourRepositoryName.git
+   git clone https://github.com/RoyEdri/Medical-Data-Analysis-MIMIC-III.git
